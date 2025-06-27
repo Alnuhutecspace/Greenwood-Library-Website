@@ -46,7 +46,7 @@ You will simulate the roles of two contributors simulate the roles of two contri
 
 3. Stage, commit and push the changes directly to the **main** branch. (This is a simulation of the team's existing code base for the website) 
 
-![]()
+![Stage, Commit and Push](./img/06.%20Stage,%20Commit%20and%20Push.png)
 
 ## Morgan's Work: Adding Book Reviews 
 
@@ -54,11 +54,19 @@ You will simulate the roles of two contributors simulate the roles of two contri
 
 2. Switch to a new branch named **add-book-reviews** 
 
+![Morgan's Branch](./img/07.%20Morgan's%20Branch.png)
+
 3. Add a new file **book_reviews.html** to represent the Book Reviews Section: 
 
-4. Add a random text content into the file. 
+![Morgan's File](./img/08.%20Morgan's%20File.png) 
+
+4. Add a random text content into the file.
+
+![Morgan Added Content](./img/09.%20Morgan%20Added%20Content.png)
 
 5. Stage, Commit, and Push Changes with a messsage like **""Add book reviews section,""** 
+
+
 
 6. Push the **""Add book reviews section,""** branch to GitHub. 
 
